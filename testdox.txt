@@ -1,0 +1,14 @@
+Avaliador (Alura\Leilao\Tests\Services\Avaliador)
+ [x] Avaliador encontra maior valor with data set #0
+ [x] Avaliador encontra maior valor with data set #1
+ [x] Avaliador encontra maior valor with data set #2
+ [x] Avaliador encontra menor valor with data set #0
+ [x] Avaliador encontra menor valor with data set #1
+ [x] Avaliador encontra menor valor with data set #2
+ [x] Avaliador encontra menor valor decrescente with data set #0
+ [x] Avaliador encontra menor valor decrescente with data set #1
+ [x] Avaliador encontra menor valor decrescente with data set #2
+ [x] E avaliador deve buscar 3 maiores valores with data set #0
+ [x] E avaliador deve buscar 3 maiores valores with data set #1
+ [x] E avaliador deve buscar 3 maiores valores with data set #2
+
